@@ -8,3 +8,50 @@
   margin-top: 2px ;
   border-bottom: 2px solid #ccc;
 }
+.dp{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 15%;
+  height: 4rem;
+  padding: 0.2px;
+}
+.details{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 85%;
+  height: 4rem;
+
+}
+.name{
+  height: 50%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0.8rem;
+
+}
+.p-name{
+  font-size: 1.1rem;
+
+}
+.p-time{
+  font-size: 0.8rem;
+  color: #1fa855;
+
+}
+.recentchat{
+  height: 50%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 0.8rem;
+  
+}
+
