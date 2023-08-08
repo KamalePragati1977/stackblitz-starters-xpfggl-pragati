@@ -1,0 +1,10 @@
+.bigbox{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 4.5rem;
+  width: 29rem;
+  margin-top: 2px ;
+  border-bottom: 2px solid #ccc;
+}
