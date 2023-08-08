@@ -1,0 +1,33 @@
+.containaer {
+  background-image: url('https://github.com/Jinesh2526/Jineshwattsimg/blob/main/mainimagwatt.jpg?raw=true');
+  /* height: 100px; */
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+.main {
+  width: 93rem;
+  height: 43rem;
+  /* background-color: violet; */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  box-shadow: -1px 2px 3px rgba(7, 7, 7, 0.3);
+}
+.sidenav {
+  width: calc(93rem - 67.5%);
+  height: 43rem;
+  /* background-color:purple; */
+  display: flex;
+  flex-direction: column;
+}
+.conversation {
+  width: calc(93rem - 32.5%);
+  height: 43rem;
+  /* background-color:pink; */
+  display: flex;
+  flex-direction: column;
+}

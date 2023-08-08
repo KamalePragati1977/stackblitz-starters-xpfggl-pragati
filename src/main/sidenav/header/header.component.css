@@ -1,0 +1,14 @@
+.headerbox{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 3.5rem;
+}
+.menu{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 3.5rem;
+  flex-basis: 40%;
+  
+}

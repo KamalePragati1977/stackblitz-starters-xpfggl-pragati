@@ -1,0 +1,19 @@
+.bigbox {
+  display: flex;
+  flex-direction: column;
+  height: 43rem;
+  border-right: 2px solid #ccc;
+}
+.Header{
+  height: 3.5rem;
+  background-color:yellow;
+}
+.search{
+  height: 3.5rem;
+   background-color:violet;
+   
+}
+.chats{
+  height: 46rem;
+  background-color: orangered;
+}
