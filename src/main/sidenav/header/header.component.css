@@ -9,14 +9,14 @@
 }
 .menu {
   display: flex;
-  flex-direction: row;
+  /* flex-direction: row; */
   justify-content: space-between;
   height: 1.6rem;
   flex-basis: 40%;
 }
 img {
   height: 100%;
-  /* border-radius: 50%; */
+  border-radius: 50%;
 }
 .logo {
   height: 3rem;
