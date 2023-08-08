@@ -1,4 +1,4 @@
-.headerbox{
+.headerbox {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -7,20 +7,18 @@
   padding: 1rem;
   border-bottom: 1px solid #ccc;
 }
-.menu{
+.menu {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   height: 1.6rem;
   flex-basis: 40%;
-  
 }
-.img{
+.img {
   height: 100%;
   /* border-radius: 50%; */
 }
-.logo{
-height: 3rem;
-flex-basis: 3rem;
-
+.logo {
+  height: 3rem;
+  flex-basis: 3.5rem;
 }
