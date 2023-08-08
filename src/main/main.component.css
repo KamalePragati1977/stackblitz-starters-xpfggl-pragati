@@ -18,14 +18,14 @@
   box-shadow: -1px 2px 3px rgba(7, 7, 7, 0.3);
 }
 .sidenav {
-  width: calc(93rem - 67.5%);
+  width: calc(93rem - 65%);
   height: 43rem;
   /* background-color:purple; */
   display: flex;
   flex-direction: column;
 }
 .conversation {
-  width: calc(93rem - 32.5%);
+  width: calc(93rem - 35%);
   height: 43rem;
   /* background-color:pink; */
   display: flex;
