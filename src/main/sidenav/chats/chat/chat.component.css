@@ -52,6 +52,21 @@
   align-items: flex-start;
   justify-content: space-between;
   padding: 0 0.8rem;
-  
+
+}
+.message{
+  font-size: 0.9rem;
+  color: #667781;
+}
+.count{
+  font-size: 0.9rem;
+  background-color: #25d366;
+  border-radius: 10px;
+  width: fit-content;
+  padding-left: 5px;
+  padding-right: 5px;
+  color:white;
+  font-weight: bold;
+
 }
 
