@@ -4,5 +4,36 @@
   align-items: center;
   height: 36rem;
   width: 100%;
-  background-image: url(https://preview.redd.it/qwd83nc4xxf41.jpg?width=640&crop=smart&auto=webp&s=e82767fdf47158e80604f407ce4938e44afc6c25);
+  background-image: url(https://is.zobj.net/image-server/v1/images?r=4cxVw4le4v_ChTIcYTrdtrltB37iUHPyOA37II1BlD-EyEw_3Jbin6nGC0umio8r-ZcwRFzoWY5dsPYKs6YHJ3pF1ojO5no7G4hIr0R6UzA0gMH1YhfjLbUe2APfMLZQ4C_mYp762qQj5B3M27mP0Jyy1V5tRo9D_3sl_Ok9BxxnAsQW6Vc1nD4C9wEodTfBnJ0iTSX-SRjHurAXkUHvYvhd4zzUsO0LI8oGoQ);
+}
+.container::-webkit-scrollbar {
+  width: 5px;
+}
+.container::-webkit-scrollbar {
+  box-shadow: inset 0 0 6px rgba(163, 163, 163, 0.3);
+  border-radius: 5px;
+}
+.container::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  box-shadow: inset 0 0 6px rgba(163, 163, 163);
+}
+.inmsg {
+  border: 1px solid #eee;
+  border-radius: 10px;
+  padding: 1rem;
+  max-width: 60%;
+  min-width: 20%;
+  background-color: white;
+  align-self: flex-start;
+  margin: 1rem;
+}
+.outmsg {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 1rem;
+  max-width: 60%;
+  min-width: 20%;
+  background-color: #d9fdd3;
+  align-self: flex-end;
+  margin: 1rem;
 }
