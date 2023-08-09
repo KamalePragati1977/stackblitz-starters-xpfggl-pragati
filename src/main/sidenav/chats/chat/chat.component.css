@@ -13,7 +13,7 @@
   justify-content: center;
   align-content: center;
   width: 15%;
-  height: 4rem;
+  height: 3.5rem;
   padding: 0.2rem;
 }
 .details {
@@ -62,4 +62,8 @@
   padding-right: 5px;
   color: white;
   font-weight: bold;
+}
+.dp >img{
+  border:1px solid #ccc;
+  border-radius: 50%;
 }
